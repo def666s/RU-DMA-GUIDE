@@ -7,7 +7,6 @@
 
 **Не стесняйтесь присоединяться к нашему Discord серверу, если у вас возникли вопросы или проблемы, вы можете задать их в одном из каналов общения.**
 
+[![Discord Banner](https://discord.com/api/guilds/1253272607000756275/widget.png?style=banner3)](https://discord.gg/datadistrictdma) 
+
 - **Так же мы предлагаем эмулированные и базовые прошивки под EAC / BE / RICOCHET / MRAC, всех рады видеть.**
-
-[![Discord](https://i.imgur.com/t6Zhw5K.png)](https://discord.gg/datadistrictdma)
-
