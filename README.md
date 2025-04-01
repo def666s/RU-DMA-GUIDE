@@ -5,6 +5,7 @@
 
 - [Установка и настройка DMA](https://github.com/def666s/RU-DMA-GUIDE/blob/main/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0/DMA-Setup.md)
 - [Ответы на часто задаваемые вопросы](https://github.com/def666s/RU-DMA-GUIDE/blob/main/FAQ/Readme.md)
+- [Как прошить DMA? - Гайд](https://github.com/def666s/RU-DMA-GUIDE/blob/main/%D0%9A%D0%B0%D0%BA%20%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D1%82%D1%8C%20DMA%3F/FLASH-DMA.md)
 
 Не стесняйтесь присоединяться к нашему Discord серверу, если у вас возникли вопросы или проблемы, вы можете задать их в одном из каналов общения.
 
