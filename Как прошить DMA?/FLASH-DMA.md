@@ -52,3 +52,7 @@
 4. **Включите ПК обратно**.  
 
 **Готово!** DMA-карта прошита и готова к работе.
+
+**Остались вопросы? Можете задать у нас в Discord канале.**
+
+ [![Discord Banner](https://discord.com/api/guilds/1253272607000756275/widget.png?style=banner3)](https://discord.gg/datadistrictdma) 
